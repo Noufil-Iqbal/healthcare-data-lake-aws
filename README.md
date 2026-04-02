@@ -1,3 +1,4 @@
+<img width="776" height="730" alt="Screenshot 2026-03-29 at 4 37 51 AM" src="https://github.com/user-attachments/assets/aa0d78d7-4437-41c3-a5b7-e9892a7db4cf" />
 # Healthcare Data Lake with Governance 🏥
 
 A HIPAA-compliant healthcare data lake built on AWS using 
